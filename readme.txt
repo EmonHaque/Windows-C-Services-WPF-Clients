@@ -1,7 +1,7 @@
 C# Library:  CommonService
 WPF Library: CommonControls
 
-WPF Apps:
+WPF Clients:
   1) Launcher
   2) RentManager
   3) CDRM
