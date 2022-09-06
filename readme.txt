@@ -7,10 +7,10 @@ WPF Clients:
   3) CDRM
   
 C Services:
-  1) LaunchService (required for Launcher)
-  2) LoginService (required for CommonControls)
-  3) RentManagerService (required for RentManager)
-  4) CDRMService (required for CDRM)
+  1) LaunchService (for Launcher)
+  2) LoginService (for CommonControls' LoginWindow)
+  3) RentManagerService (for RentManager)
+  4) CDRMService (for CDRM)
 
 ====================================================================================
 
