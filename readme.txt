@@ -13,7 +13,7 @@ Windows C Services:
   4) CDRMService (for CDRM)
   
 Linux C Services:
-  1) RentManagerService-POSIX (compile with -fno-stack-protector, otherwise you'll get core dumped)
+  1) RentManagerService-POSIX
 
 ====================================================================================
 
