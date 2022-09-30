@@ -19,3 +19,6 @@ Linux C Services:
 
 1) Launcher and CommonControls Library need CommonService Library reference. 
 2) Other WPF client apps need CommonControls Library reference.
+
+====================================================================================
+GetLeftOrJoined Function hasn't yet been implemented in RentManagerService-POSIX, add it in the Function enum, copy getLeftOrJoined from Database.c and sendLeftOrJoined from Dispatcher.c of Windows Service and Update switch/cases in those files
