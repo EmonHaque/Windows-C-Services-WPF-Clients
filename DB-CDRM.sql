@@ -1,4 +1,6 @@
-﻿CREATE TABLE Sites(
+-- filename CDRM.db
+
+CREATE TABLE Sites(
 	Id 				INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
 	Name 			TEXT,
 	Address			TEXT
