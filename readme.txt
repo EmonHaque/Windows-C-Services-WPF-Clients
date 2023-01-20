@@ -11,9 +11,6 @@ Windows C Services:
   2) LoginService (for CommonControls' LoginWindow)
   3) RentManagerService (for RentManager)
   4) CDRMService (for CDRM)
-  
-Linux C Services:
-  1) RentManagerService-POSIX
 
 ====================================================================================
 
